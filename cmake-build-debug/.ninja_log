@@ -1,0 +1,5 @@
+# ninja log v5
+2	290	7163240305491270	CMakeFiles/hello_world.dir/main.cpp.obj	932ad3c3e7234283
+2	295	7163243263870807	CMakeFiles/hello_world.dir/dataTypes.cpp.obj	812273e35ce213d8
+1	283	7163244401591250	CMakeFiles/data_types.dir/dataTypes.cpp.obj	67370598f69f8f5c
+284	372	7163244402438974	data_types.exe	9f299ab373271578

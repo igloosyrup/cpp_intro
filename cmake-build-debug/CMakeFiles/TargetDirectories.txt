@@ -1,0 +1,4 @@
+C:/Users/darck/Documents/Coding/c++_workspace/hello_world/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/darck/Documents/Coding/c++_workspace/hello_world/cmake-build-debug/CMakeFiles/data_types.dir
+C:/Users/darck/Documents/Coding/c++_workspace/hello_world/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/darck/Documents/Coding/c++_workspace/hello_world/cmake-build-debug/CMakeFiles/rebuild_cache.dir
